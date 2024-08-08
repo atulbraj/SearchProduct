@@ -61,7 +61,7 @@ contextlib2==21.6.0
 contourpy==1.2.1
 cryptography==42.0.8
 cuda-python==12.2.1
-cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-24.4.1-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=57366e7ef09dc63e0b389aff20df6c37d91e2790065861ee31a4720149f5b694
+b694
 cufflinks==0.17.3
 cupy-cuda12x==12.2.0
 cvxopt==1.3.2
@@ -90,7 +90,6 @@ ecos==2.0.14
 editdistance==0.8.1
 eerepr==0.0.4
 einops==0.8.0
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
 entrypoints==0.4
 et-xmlfile==1.1.0
 etils==1.7.0
@@ -149,7 +148,6 @@ google-cloud-pubsub==2.23.0
 google-cloud-resource-manager==1.12.5
 google-cloud-storage==2.8.0
 google-cloud-translate==3.15.5
-google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz#sha256=fc75314af4a3fc288d14496dd913e8a8f53bc590ee9e1a94801ea6901d19d188
 google-crc32c==1.5.0
 google-generativeai==0.7.2
 google-pasta==0.2.0
@@ -202,7 +200,6 @@ ipytree==0.2.2
 ipywidgets==7.7.1
 itsdangerous==2.2.0
 jax==0.4.26
-jaxlib @ https://storage.googleapis.com/jax-releases/cuda12/jaxlib-0.4.26+cuda12.cudnn89-cp310-cp310-manylinux2014_x86_64.whl#sha256=813cf1fe3e7ca4dbf5327d6e7b4fc8521e92d8bba073ee645ae0d5d036a25750
 jedi==0.19.1
 jeepney==0.7.1
 jellyfish==1.1.0
@@ -455,11 +452,8 @@ toml==0.10.2
 tomli==2.0.1
 tomlkit==0.13.0
 toolz==0.12.1
-torch @ https://download.pytorch.org/whl/cu121/torch-2.3.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=f0deb5d2f932a68ed54625ba140eddbf2af22be978ee19b9b63c986add6425b2
-torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.3.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=0b423f4ae3356f11f6723e8c77208ac3f9361a4f941e4cc08d86c32c137594bc
 torchsummary==1.5.1
 torchtext==0.18.0
-torchvision @ https://download.pytorch.org/whl/cu121/torchvision-0.18.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=e95ba5a2c616939281e01babf11664d6d1725e81bba57ef81f81c3e57e4d4151
 tornado==6.3.3
 tqdm==4.66.5
 traitlets==5.7.1
