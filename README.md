@@ -22,8 +22,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/product-retrieval-system.git
-   cd product-retrieval-system
+   git clone https://github.com/atulbraj/SearchProduct.git
    ```
 
 2. **Install Dependencies:**
@@ -35,10 +34,6 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    streamlit run app.py
    ```
-
-4. **Access the Application:**
-   After running the above command, the app will automatically open in your default web browser. You can also manually navigate to `http://localhost:8501` in your browser.
-
 ## 🛠️ Usage
 
 - **Input Query:** Enter a keyword or product description into the input box.
@@ -55,29 +50,17 @@ Before you begin, ensure you have met the following requirements:
 ├── app.py                # Main application script
 ├── flipkart_com-ecommerce_sample.csv   # Dataset file (example path)
 └── README.md             # Project documentation
+└── requirements.txt.md 
 ```
 
 ## 🖥️ Screenshots
 
 Here are some screenshots of the application in action:
 
+## Preview 1
 ![Screenshot1](screenshot1.jpg)
+## Preview 2
 ![Screenshot2](screenshot2.jpg)
 
-## 🤝 Contributing
 
-Contributions are always welcome! Feel free to fork this repository, create a feature branch, and submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 👤 Creator
-
-- **Name:** Atul B Raj
-- **Roll No.:** IIB2021019
-- **College:** IIIT Allahabad
-
----
-
-Feel free to adjust the content according to your project details and add any additional sections if necessary.
+## THANK YOU
