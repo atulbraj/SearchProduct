@@ -56,7 +56,7 @@ def main():
     tfidf_matrix = vectorizer.fit_transform(df['relevant_content'])
 
     # User input for the query
-    st.subheader("Search To Find Relevant Products")
+    st.subheader("Find Relevant Products")
     query = st.text_input("Enter a product query:")
 
     if query:
