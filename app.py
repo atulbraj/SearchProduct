@@ -56,7 +56,7 @@ def main():
     tfidf_matrix = vectorizer.fit_transform(df['relevant_content'])
 
     # User input for the query
-    st.subheader("Find Similar Products")
+    st.subheader("Search To Find Relevant Products")
     query = st.text_input("Enter a product query:")
 
     if query:
@@ -71,12 +71,12 @@ def main():
     
     # Footer
     st.write("---")
-    st.caption("Developed with (💻 && 🧠) by Atul B Raj")
     st.markdown("""
         **Creator**: *Atul B Raj*  
         **Roll No.**: IIB2021019  
         **College**: IIIT Allahabad
     """)
+    st.caption("Developed with (💻 && 🧠) by Atul B Raj")
 
 if __name__ == "__main__":
     main()
