@@ -38,12 +38,7 @@ def find_similar_products_tfidf(query, vectorizer, tfidf_matrix, df, top_n=5):
 # Main Streamlit app
 def main():
     # App title and creator details
-    st.title("Product Similarity Finder")
-    st.markdown("""
-        **Creator**: *Atul B Raj*  
-        **Roll No.**: IIB2021019  
-        **College**: IIIT Allahabad
-    """)
+    st.title("Product Retrieval System")
     st.write("---")  # Divider
 
     # Load data
@@ -77,6 +72,11 @@ def main():
     # Footer
     st.write("---")
     st.caption("Developed with (💻 && 🧠) by Atul B Raj")
+    st.markdown("""
+        **Creator**: *Atul B Raj*  
+        **Roll No.**: IIB2021019  
+        **College**: IIIT Allahabad
+    """)
 
 if __name__ == "__main__":
     main()
