@@ -60,13 +60,13 @@ Before you begin, ensure you have met the following requirements:
 
 
 ## Issue: (No Multilingual Support in Walmart Search System)
-![Screenshot1](issue.jpg)
+![Screenshot1](Issue.jpg)
 
 ## 🖥️ Implemented Solution
 
 Here are some screenshots of the application in action:
 ## Multilingual Ouput:
-![Screenshot1](screenshot1.jpg)
+![Screenshot1](Implentation-screenshot.jfif)
 
 ## Streamlit Preview 1 
 ![Screenshot1](screenshot1.jpg)
