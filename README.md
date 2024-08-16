@@ -66,7 +66,7 @@ Before you begin, ensure you have met the following requirements:
 ## 🖥️ Implemented Solution
 
 Here are some screenshots of the application in action:
-## Multilingual Ouput:
+## Multilingual Ouput - Query: Jeans  (In Japanese)
 ![Screenshot1](Implentation-screenshot.jfif)
 
 ## Streamlit Preview 1 
