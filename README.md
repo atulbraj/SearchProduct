@@ -21,7 +21,7 @@ I have performed EDA also i have implemented the task using 4 various methods
 ├── app.py                # Main application script
 ├── flipkart_com-ecommerce_sample.csv   # Dataset file (example path)
 ├── README.md             # Project documentation
-├── WALMART-TASK-METHOD(1-4).ipynb   # Colab Implementation of all Methods(4)
+├── Implementation.ipynb   # Colab Implementation of all Methods(4)
 └── requirements.txt      # requirement file
 
 ```
