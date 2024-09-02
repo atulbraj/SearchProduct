@@ -1,11 +1,5 @@
 # 🛒 Product Search Retrieval System
 
-## Issue: (No Multilingual Support in Walmart Search System)
-![Screenshot1](Issue.jpg)
-
-## Solution (Multilingual + Query Implementation using different methods)
-This repository contains a Streamlit application designed to retrieve similar products based on a user-provided query using different Aprroaches. The system efficiently processes and analyzes e-commerce product data to find the most relevant products that match the user's query.
-
 ## 🎯 Features
 
 - **Interactive Interface:** The app provides an intuitive interface for users to input their product query and receive a list of similar products.
