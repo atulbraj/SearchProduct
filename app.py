@@ -72,7 +72,7 @@ def main():
     # Footer
     st.write("---")
     st.markdown("""
-        **Creators**: *Team: Walmartians*  
+        **Creator**: *Atul B Raj*  
     """)
     st.caption("Developed with (💻 && 🧠)")
 
